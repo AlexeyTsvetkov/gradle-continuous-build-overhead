@@ -1,0 +1,2 @@
+rootProject.name = 'gradle-continuous-build-overhead'
+include 'project_1', 'project_2', 'project_3', 'project_4', 'project_5', 'project_6', 'project_7', 'project_8', 'project_9', 'project_10', 'project_11', 'project_12', 'project_13', 'project_14', 'project_15', 'project_16', 'project_17', 'project_18', 'project_19', 'project_20'
